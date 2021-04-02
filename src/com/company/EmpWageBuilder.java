@@ -6,9 +6,9 @@ public class EmpWageBuilder {
         int IS_PRESENT = 1;
         double empCheck = Math.floor(Math.random() * 10 ) % 2;
         if (empCheck == IS_PRESENT)
-            System.out.println("Employee Is Present");
+            System.out.println("Employee Is Present.");
         else
-            System.out.println("Employee Is Absent");
+            System.out.println("Employee Is Absent.");
     }
 
 }

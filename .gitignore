@@ -1,6 +1,3 @@
 .idea
-.settings
-.gitingnore
-.classpath
-.project
+.gitignore
 Emp_Wage_Builder.iml
